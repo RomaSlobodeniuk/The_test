@@ -1,2 +1,1 @@
-# The_test
-my testic
+The_test
